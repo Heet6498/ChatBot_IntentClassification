@@ -7,7 +7,7 @@ It is an indisputable fact that the Covid-19 spread is one of the most negativel
 Building an interactive covid-19 chatbot from scratch to raise awareness among people using the "Intent" function.
 
 ### Dataset
-- Basic dataset with keys and their values. Here I have created one excel file on my own in which I defined intents as keys and basic conversation values as values. 
+Basic dataset with keys and their values. Here I have created one excel file on my own in which I defined intents as keys and basic conversation values as values. 
 
 ### Approch 
 - loading the dataset
